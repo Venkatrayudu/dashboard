@@ -15,7 +15,7 @@ import com.vaadin.tutorial.crm.ui.MainLayout;
 
 import java.util.Map;
 
-@PageTitle("Dashboard | Vaadin CRM")
+@PageTitle("Dashboard | Brandbook Dashboard")
 @Route(value = "dashboard", layout = MainLayout.class)
 public class DashboardView extends VerticalLayout {
 

@@ -15,8 +15,8 @@ import com.vaadin.tutorial.crm.ui.views.dashboard.DashboardView;
 import com.vaadin.tutorial.crm.ui.views.list.ListView;
 
 @PWA(
-    name = "Vaadin CRM",
-    shortName = "CRM",
+    name = "Brandbook Dashboard",
+    shortName = "Dashboard",
     offlineResources = {
         "./styles/offline.css",
         "./images/offline.png"
@@ -32,7 +32,7 @@ public class MainLayout extends AppLayout {
     }
 
     private void createHeader() {
-        H1 logo = new H1("Vaadin CRM");
+        H1 logo = new H1("Brandbook Dashboard");
         logo.addClassName("logo");
 
         Anchor logout = new Anchor("/logout", "Log out");
