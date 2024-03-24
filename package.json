@@ -57,7 +57,7 @@
       "webpack": "4.42.0",
       "chokidar": "^3.4.0",
       "webpack-merge": "4.2.2",
-      "webpack-dev-server": "3.11.0"
+      "webpack-dev-server": "5.0.4"
     },
     "hash": "d73675fca8a4175ca6d4fa806c4008387de5ca5088499319348a4b9e8b410154"
   },
@@ -115,7 +115,7 @@
     "webpack": "4.42.0",
     "webpack-babel-multi-target-plugin": "2.3.3",
     "webpack-cli": "3.3.11",
-    "webpack-dev-server": "3.11.0",
+    "webpack-dev-server": "5.0.4",
     "webpack-merge": "4.2.2"
   }
 }
